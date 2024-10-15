@@ -1,3 +1,15 @@
-[submodule "aptimus-sdk"]
-	path = aptimus-sdk
-	url = https://github.com/Weminal-labs/aptimus-sdk.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Weminal-labs/aptimus-api-be
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Weminal-labs/aptimus-fe
+[submodule "gas-pool"]
+	path = gas-pool
+	url = https://github.com/Weminal-labs/aptimus-gas-pool
+[submodule "sdk"]
+	path = sdk
+	url = https://github.com/Weminal-labs/aptimus-sdk
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Weminal-labs/aptimus-docs
