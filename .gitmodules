@@ -1,0 +1,3 @@
+[submodule "aptimus-sdk"]
+	path = aptimus-sdk
+	url = https://github.com/Weminal-labs/aptimus-sdk.git
